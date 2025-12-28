@@ -2,7 +2,7 @@
 -- 11.14.2025
 -- https://fluent-pl.us
 
-local Icons = {
+return {
 	["air-vent"] = "rbxassetid://113088244245544",
 	["a-arrow-down"] = "rbxassetid://120414505628310",
 	["airplay"] = "rbxassetid://84819241115336",
@@ -1648,4 +1648,5 @@ local Icons = {
 	["arrow-right-left"] = "rbxassetid://98920092617667",
 	["arrow-right-from-line"] = "rbxassetid://118130042636840",
 	["arrow-left-to-line"] = "rbxassetid://122880152766242"
+
 }
